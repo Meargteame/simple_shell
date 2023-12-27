@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #ifndef SHELL_H
 #define SHELL_H
 
@@ -35,3 +36,9 @@ char *lineptr, int np, int c);
 
 #endif /* SHELL_H */
 
+=======
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <unistd.h>
+>>>>>>> e91970f273b0d6a693ef7945227d7590f4d7accd
